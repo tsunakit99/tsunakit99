@@ -8,8 +8,29 @@ Currently exploring architecture patterns like **CQRS**, **Clean Architecture**,
 
 ### 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,materialui,go,prisma,docker,php,laravel,python,mysql,postgres,fastapi,c,cs,githubactions,azure,aws,supabase" />
+#### 👨‍🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,materialui" />
+</p>
+
+#### 🧠 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=go,php,laravel,python,fastapi" />
+</p>
+
+#### 🗄️ Database & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=prisma,mysql,postgres" />
+</p>
+
+#### ⚙️ DevOps / Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,azure,aws,supabase" />
+</p>
+
+#### 🔣 Others
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cs" />
 </p>
 
 ---
