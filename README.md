@@ -1,14 +1,10 @@
 ## Hi there 👋 I'm tsunakit99
 
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=tsunakit99.tsunakit99&left_color=blue&right_color=green)
+
 ### 💻 About Me
 I'm a passionate full-stack developer who loves building elegant web applications with modern technologies.  
 Currently exploring architecture patterns like **CQRS**, **Clean Architecture**, and crafting high-quality apps using **Next.js**, **Go**, and **Supabase**.
-
-<p align="left">
-  <a href="https://github.com/tsunakit99">
-    <img height="20" src="https://komarev.com/ghpvc/?username=tsunakit99" />
-  </a>
-</p>
 
 ---
 
