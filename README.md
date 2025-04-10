@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm tsunakit99
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=tsunakit99.tsunakit99&left_color=blue&right_color=green)
+[![Visitors](https://komarev.com/ghpvc/?username=tsunakit99&color=blue)](https://github.com/tsunakit99)
 
 ### 💻 About Me
 I'm a passionate full-stack developer who loves building elegant web applications with modern technologies.  
